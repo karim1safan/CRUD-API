@@ -2,6 +2,8 @@
 
 A simple REST API built with Express and MongoDB using Mongoose. The project exposes CRUD endpoints for products.
 
+[CRUD API Tutorial – Node, Express, MongoDB (freeCodeCamp)](https://youtu.be/_7UQPve99r4?si=rf-VoxBBrcY4ACok)
+
 ## Tech Stack
 
 - Node.js
